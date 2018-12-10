@@ -1,23 +1,23 @@
-#Project name
+# Project name
 Projekti nimi, mida peaks esimesena nägema.
 
-#Description
+# Description
 Projekti kirjeldus. Hea kirjeldus on lühike ja konkreetne.
 
-#Table of Contents
+# Table of Contents
 Sisukord, mille kaudu saab kergesti ja kiiresti navigeerida
 
-#Installation
+# Installation
 Kuidas paigaldada enda projekti lokaalselt.
 
-#Usage
+# Usage
 Kuidas kasutada seda projekti
 
-#Contributing
+# Contributing
 Kuidas saab projekti panustada. Vahepeal on see eraldi failina.
 
-#Credits
+# Credits
 Projekti autorid
 
-#License
+# License
 Projekti litsents
